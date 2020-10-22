@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 20px;
+}
+
+body{
+  background-color: #32a8a4;
+}
+
+/* Class */
+
+.name{
+  margin-left:   ;
+}
+
+.pic{
+  border-radius: 30px;
+  width: 15%;
+}
+
+.pic2{
+  border-radius: 30px;
+  width: 50%;
+}
